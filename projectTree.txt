@@ -1,0 +1,22 @@
+.
+|  .gitignore
+│  babel.config.js
+│  LICENSE
+│  package-lock.json
+│  package.json
+│  README.md
+│
+├─public
+│      favicon.ico
+│      index.html
+│
+└─src
+    │  App.vue
+    │  main.js
+    │
+    ├─assets    资源目录
+    │      logo.png
+    │
+    └─components   公共组件目录
+            HelloWorld.vue
+    views    视图目录

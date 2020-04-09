@@ -1,0 +1,85 @@
+frontEndProjectsMall 
+
+
+Git Bash软件
+
+tree.exe -I "node_modules"
+
+######################################
+
+.
+|-- LICENSE
+|-- README.md
+|-- babel.config.js
+|-- package-lock.json
+|-- package.json
+|-- projectTree.txt
+|-- public
+|   |-- favicon.ico
+|   `-- index.html
+|-- src
+|   |-- App.vue
+|   |-- assets
+|   |   |-- css
+|   |   |   |-- base.css
+|   |   |   `-- normalize.css
+|   |   `-- img
+|   |       |-- cart
+|   |       |   `-- tick.svg
+|   |       |-- common
+|   |       |   |-- arrow-left.svg
+|   |       |   |-- back.svg
+|   |       |   |-- collect.svg
+|   |       |   |-- placeholder.png
+|   |       |   `-- top.png
+|   |       |-- detail
+|   |       |   |-- cart.png
+|   |       |   `-- detail_bottom.png
+|   |       |-- home
+|   |       |   `-- recommend_bg.jpg
+|   |       |-- profile
+|   |       |   |-- avatar.svg
+|   |       |   |-- cart.svg
+|   |       |   |-- message.svg
+|   |       |   |-- phone.svg
+|   |       |   |-- pointer.svg
+|   |       |   |-- shopping.svg
+|   |       |   `-- vip.svg
+|   |       `-- tabbar
+|   |           |-- category.svg
+|   |           |-- category_active.svg
+|   |           |-- home.svg
+|   |           |-- home_active.svg
+|   |           |-- profile.svg
+|   |           |-- profile_active.svg
+|   |           |-- shopcart.svg
+|   |           `-- shopcart_active.svg
+|   |-- common
+|   |-- components
+|   |   |-- common
+|   |   |   |-- navbar
+|   |   |   |   `-- NavBar.vue
+|   |   |   `-- tabbar
+|   |   |       |-- TabBar.vue
+|   |   |       `-- TabBarItem.vue
+|   |   `-- content
+|   |       `-- mainTabbar
+|   |           `-- MainTabBar.vue
+|   |-- main.js
+|   |-- network
+|   |   |-- home.js
+|   |   `-- request.js
+|   |-- router
+|   |   `-- index.js
+|   |-- store
+|   `-- views
+|       |-- cart
+|       |   `-- Cart.vue
+|       |-- category
+|       |   `-- Category.vue
+|       |-- home
+|       |   `-- Home.vue
+|       `-- profile
+|           `-- Profile.vue
+|-- tree.txt
+`-- vue.config.js
