@@ -55,7 +55,7 @@ export default {
   flex: 1;
   text-align: center;
   height: 49px;
-  font-size: 14xp;
+  font-size: 14px;
 }
 .tab-bar-item img {
   margin: 3px 0 1px 0;
